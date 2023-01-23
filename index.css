@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: white;
+}
+
+.div_card {
+    cursor: pointer;
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0px;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+}
+
+.div_card2 {
+    width: 300px;
+    border-radius: 8px;
+    box-shadow: 1px 1px 20px black;
+}
+
+.photo {
+    width: 100%;
+    border-radius: 8px 8px 0px 0px;
+}
+
+.title {
+    margin: 0;
+    padding: 0;
+    padding: 10px 15px;
+    color: black;
+    font-family: unset;
+    font-weight: 300;
+}
+
+.Lorem{
+    margin: 0px;
+    padding: 25px 13px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+}
+
+
+.button {
+    /* align-items: center; */
+    margin: 100px 34px 10px 34px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    padding: 10px;
+    width: 230px;
+    border: none;
+    border-radius: 5px;
+    background: rgb(23  ,161,13);
+}
+.button:hover{
+    box-shadow: 2px 2px 20px rgb(23  ,161,13);
+    background: rgb(86  ,203,78);
+}
+
+.a {
+    margin: 26px 34px 10px 34px;
+}
+
+.b {
+    margin: 138px 34px 10px 34px;
+}
+
+.c {
+    margin: 100px 34px 10px 34px;
+}
